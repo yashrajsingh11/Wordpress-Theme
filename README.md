@@ -1,0 +1,2 @@
+# wordpresstheme
+test
