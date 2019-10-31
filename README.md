@@ -1,2 +1,2 @@
 # wordpresstheme
-A simple wordpress theme
+test
